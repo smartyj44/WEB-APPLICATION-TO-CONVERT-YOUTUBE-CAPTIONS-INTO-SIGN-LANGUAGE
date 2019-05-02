@@ -1,0 +1,824 @@
+1
+00:00:03,455 --> 00:00:06,255
+In front of are arguably the best
+
+2
+00:00:06,255 --> 00:00:09,125
+13 inch Windows laptops on the market right now
+
+3
+00:00:09,125 --> 00:00:11,300
+This is the Huawei Matebook 13
+
+4
+00:00:11,300 --> 00:00:12,660
+this is the Matebook X pro
+
+5
+00:00:12,840 --> 00:00:15,620
+both kind of refreshed and brand new for 2019
+
+6
+00:00:15,900 --> 00:00:16,400
+Now
+
+7
+00:00:16,560 --> 00:00:18,840
+it's easy to kind of dismiss the brand
+
+8
+00:00:18,840 --> 00:00:21,080
+because some people said in the comments
+
+9
+00:00:21,080 --> 00:00:21,940
+to look at these devices and
+
+10
+00:00:21,940 --> 00:00:23,460
+they look like Macbook clones.
+
+11
+00:00:23,460 --> 00:00:26,500
+It's clearly look like they've been inspired by Apple's designs
+
+12
+00:00:26,660 --> 00:00:29,860
+and Huawei is a company that has a bit of a controversial past
+
+13
+00:00:29,860 --> 00:00:31,820
+they've been caught for
+
+14
+00:00:31,820 --> 00:00:33,820
+IP theft, and patent infringement,
+
+15
+00:00:33,860 --> 00:00:35,380
+they don't have the cleanest record at there.
+
+16
+00:00:35,380 --> 00:00:35,940
+However,
+
+17
+00:00:35,940 --> 00:00:39,240
+the fact remains these devices are very good.
+
+18
+00:00:39,320 --> 00:00:40,575
+If you're in the market for
+
+19
+00:00:40,575 --> 00:00:42,815
+some of that thin and light with great performance,
+
+20
+00:00:42,960 --> 00:00:44,360
+this should be on the short list.
+
+21
+00:00:44,360 --> 00:00:47,100
+So, i'm just gonna jump into performance real quick
+
+22
+00:00:47,100 --> 00:00:50,120
+These are running Whiskey Lake CPUs.
+
+23
+00:00:50,120 --> 00:00:51,480
+They're quad core, they're fast
+
+24
+00:00:51,560 --> 00:00:53,480
+and for anyone considering an ultrabook,
+
+25
+00:00:53,480 --> 00:00:55,020
+they'll get the job done.
+
+26
+00:00:55,020 --> 00:00:56,740
+But they're also running nVidia GPUs
+
+27
+00:00:56,740 --> 00:00:57,780
+and that's what makes these things special
+
+28
+00:00:57,780 --> 00:01:00,520
+cuz most ultrabooks that are thin and light like this
+
+29
+00:01:00,600 --> 00:01:03,280
+are usually running integrated graphics
+
+30
+00:01:03,280 --> 00:01:05,320
+These are running dedicated nVidia GPUs.
+
+31
+00:01:05,320 --> 00:01:07,240
+They're very similar in performance
+
+32
+00:01:07,240 --> 00:01:09,000
+despite having very different names
+
+33
+00:01:09,000 --> 00:01:09,960
+they're not gaming GPUs
+
+34
+00:01:09,960 --> 00:01:11,520
+but if you do wanna play some light games
+
+35
+00:01:11,520 --> 00:01:12,480
+they will work,
+
+36
+00:01:12,480 --> 00:01:14,800
+I'm still on the fence as value of these cards,
+
+37
+00:01:14,800 --> 00:01:16,640
+like, on one hand they're not super powerful,
+
+38
+00:01:16,640 --> 00:01:19,600
+of course, you can't do alot of graphically intensive stuff with it,
+
+39
+00:01:19,640 --> 00:01:22,360
+but, if you're looking for something that's thin and light
+
+40
+00:01:22,360 --> 00:01:24,080
+that does have graphical capabilities,
+
+41
+00:01:24,080 --> 00:01:25,360
+these are a perfect fit.
+
+42
+00:01:25,360 --> 00:01:27,640
+Now , I wanna talk about fans and thermals for a sec,
+
+43
+00:01:28,480 --> 00:01:29,640
+these have upgraded fans.
+
+44
+00:01:29,640 --> 00:01:33,080
+the 2018 models for both these devices had
+
+45
+00:01:33,120 --> 00:01:35,080
+kinda weak thermal performance,
+
+46
+00:01:35,160 --> 00:01:38,320
+they had loud fans, they had inappropriately sized fans,
+
+47
+00:01:38,400 --> 00:01:40,240
+these are better but hey're still not perfect.
+
+48
+00:01:40,560 --> 00:01:42,680
+The Matebook 13 are now running two fans,
+
+49
+00:01:42,680 --> 00:01:43,360
+instead of one,
+
+50
+00:01:43,360 --> 00:01:45,080
+but the Matebook X pro's still running one fan,
+
+51
+00:01:45,080 --> 00:01:46,960
+it's an improved fan, it's better
+
+52
+00:01:46,960 --> 00:01:49,640
+but, both of these devices
+
+53
+00:01:49,640 --> 00:01:50,400
+still run pretty loud on load
+
+54
+00:01:50,400 --> 00:01:51,480
+and when they're idling,
+
+55
+00:01:51,640 --> 00:01:52,760
+I feel like the fans come on more often
+
+56
+00:01:52,760 --> 00:01:53,720
+then I'd liked them to
+
+57
+00:01:54,560 --> 00:01:56,320
+maybe that's something can be fixed with software and
+
+58
+00:01:56,320 --> 00:01:59,880
+Huawei does put out software updates prettry frequently for their deivces
+
+59
+00:01:59,880 --> 00:02:00,480
+but
+
+60
+00:02:00,480 --> 00:02:02,480
+I just feel like these things should be quieter
+
+61
+00:02:02,480 --> 00:02:03,760
+than they're in their current state.
+
+62
+00:02:03,760 --> 00:02:05,920
+Now, the main difference between these two devices
+
+63
+00:02:05,920 --> 00:02:07,120
+is their displays.
+
+64
+00:02:07,120 --> 00:02:10,320
+this is running a 13 inch 1440p panel,
+
+65
+00:02:10,360 --> 00:02:13,840
+the X pro's higher res' 3K by 2K
+
+66
+00:02:13,920 --> 00:02:15,715
+and it's larger 14 inch panel
+
+67
+00:02:15,720 --> 00:02:18,400
+but the display on the Matebook X pro is
+
+68
+00:02:18,600 --> 00:02:19,520
+significantly brighter
+
+69
+00:02:19,520 --> 00:02:20,000
+I think for most people
+
+70
+00:02:20,000 --> 00:02:22,000
+they're going to be really drawn to this screen's brightness
+
+71
+00:02:22,000 --> 00:02:22,960
+and colors.
+
+72
+00:02:22,960 --> 00:02:24,320
+The Matebook 13's screen is already great,
+
+73
+00:02:24,320 --> 00:02:27,400
+it's just that the Matebook X pro's that much better.
+
+74
+00:02:27,680 --> 00:02:29,560
+In fact, if you're deciding between the two,
+
+75
+00:02:29,560 --> 00:02:30,640
+I really feel like you should just
+
+76
+00:02:30,640 --> 00:02:32,360
+figure out what type of screen you want
+
+77
+00:02:32,360 --> 00:02:33,520
+or need,
+
+78
+00:02:33,520 --> 00:02:35,440
+and then make your decision based on that
+
+79
+00:02:35,560 --> 00:02:37,640
+because it really is the fundamental difference
+
+80
+00:02:37,640 --> 00:02:38,120
+between the two.
+
+81
+00:02:38,120 --> 00:02:40,600
+the Matebook 13 ha a standard webcam up top,
+
+82
+00:02:40,600 --> 00:02:43,200
+but the X pro has the popup webcam
+
+83
+00:02:43,200 --> 00:02:44,320
+if you haven't seen this in the past,
+
+84
+00:02:44,320 --> 00:02:46,480
+they have a key that you can press
+
+85
+00:02:46,480 --> 00:02:47,760
+and the webcam pops up,
+
+86
+00:02:47,760 --> 00:02:49,680
+it's pretty cool, I don't think
+
+87
+00:02:49,680 --> 00:02:52,240
+it's a particularly great location like
+
+88
+00:02:52,240 --> 00:02:53,720
+when using it you can see your hands as you're typing,
+
+89
+00:02:53,720 --> 00:02:55,720
+but i think for most people
+
+90
+00:02:55,720 --> 00:02:57,200
+who don't use their webcams frequently,
+
+91
+00:02:57,200 --> 00:02:59,040
+this is a great lil' addition
+
+92
+00:02:59,040 --> 00:03:00,680
+like a kinda hidden webcam
+
+93
+00:03:00,680 --> 00:03:01,960
+that doesn't get in your way
+
+94
+00:03:01,960 --> 00:03:05,080
+and, the screen has a very thin bezel because of it.
+
+95
+00:03:05,160 --> 00:03:06,280
+the port selection is
+
+96
+00:03:06,280 --> 00:03:08,320
+relatively light on both these devices,
+
+97
+00:03:08,480 --> 00:03:11,360
+the Matebook 13 has two USB c
+
+98
+00:03:11,360 --> 00:03:13,120
+now there's a side supporting thunderbolt 3
+
+99
+00:03:13,120 --> 00:03:16,160
+and the left side can be used for charging
+
+100
+00:03:16,160 --> 00:03:18,760
+so they're port-light device for sure,
+
+101
+00:03:18,760 --> 00:03:21,320
+the X pro has an extra USB A
+
+102
+00:03:21,320 --> 00:03:25,240
+and 2 USB c ports support 4 lane thunderbolt 3.
+
+103
+00:03:25,240 --> 00:03:27,960
+the speakers on both of these laptops are very good.
+
+104
+00:03:27,960 --> 00:03:30,120
+the Matebook 13 has located at the bottom
+
+105
+00:03:30,120 --> 00:03:33,400
+but despite their not great location they sound really clean
+
+106
+00:03:33,520 --> 00:03:36,800
+the speakers on the X pro are definitely better.
+
+107
+00:03:36,800 --> 00:03:37,680
+There's two on the bottom
+
+108
+00:03:37,840 --> 00:03:38,800
+and there's two on the top
+
+109
+00:03:38,800 --> 00:03:39,960
+and they sound excellent.
+
+110
+00:03:39,960 --> 00:03:42,000
+they're seriously some of the best speakers
+
+111
+00:03:42,000 --> 00:03:42,640
+in the ultrabook market.
+
+112
+00:03:42,880 --> 00:03:45,760
+I will say they're comparable to Macbook's speakers which are
+
+113
+00:03:45,880 --> 00:03:47,480
+I'd say class-leading
+
+114
+00:03:47,480 --> 00:03:49,360
+These are on par with that.
+
+115
+00:03:49,360 --> 00:03:50,160
+AH, okay.
+
+116
+00:03:50,160 --> 00:03:51,600
+Keyboards.
+
+117
+00:03:51,600 --> 00:03:54,200
+These keyboards have obviously been inspired by
+
+118
+00:03:54,200 --> 00:03:56,240
+Macbook keyboards from the past.
+
+119
+00:03:56,240 --> 00:03:57,400
+and that's honestly a good thing
+
+120
+00:03:57,400 --> 00:03:58,400
+These are easy to get used to,
+
+121
+00:03:58,400 --> 00:03:59,600
+it's got a good layout,
+
+122
+00:03:59,600 --> 00:04:00,680
+easy to type on,
+
+123
+00:04:00,680 --> 00:04:02,680
+I think most people use these keyboards and
+
+124
+00:04:02,960 --> 00:04:04,740
+find them comfortable to use fright away.
+
+125
+00:04:04,740 --> 00:04:07,180
+At the top of the keyboard is a fingerprint sensor
+
+126
+00:04:07,180 --> 00:04:09,000
+Both of these devices lets you
+
+127
+00:04:09,000 --> 00:04:11,620
+login to the device with Windows Hello.
+
+128
+00:04:11,620 --> 00:04:14,100
+and oh, on the Matebook X pro,
+
+129
+00:04:14,100 --> 00:04:16,400
+there is something called Huawei Connect,
+
+130
+00:04:16,400 --> 00:04:18,600
+I don't have the ability to use it because
+
+131
+00:04:18,600 --> 00:04:20,140
+I don't have a Huawei phone that supports it,
+
+132
+00:04:20,140 --> 00:04:21,460
+but if you have one, you can place that phone
+
+133
+00:04:21,460 --> 00:04:24,500
+on the NFC sticker and it will transfer data from the phone.
+
+134
+00:04:24,500 --> 00:04:26,040
+and you're device which is pretty cool
+
+135
+00:04:26,040 --> 00:04:29,400
+Truthfully, I think it's a really cool and quite innovative
+
+136
+00:04:29,400 --> 00:04:31,440
+like if this is was an Apple feature
+
+137
+00:04:31,440 --> 00:04:33,300
+like people will go crazy for it,
+
+138
+00:04:33,380 --> 00:04:35,700
+it's just that Huawei phones that support that feature
+
+139
+00:04:35,700 --> 00:04:37,020
+aren't wide spread enough
+
+140
+00:04:37,020 --> 00:04:39,280
+to make this thing like super cool but i do think
+
+141
+00:04:39,280 --> 00:04:40,260
+it's a cool idea.
+
+142
+00:04:40,540 --> 00:04:42,120
+Um, oh trackpad.
+
+143
+00:04:42,120 --> 00:04:43,260
+their running Windows precision driver
+
+144
+00:04:43,260 --> 00:04:45,700
+you have good tracking, good gesture detection,
+
+145
+00:04:45,860 --> 00:04:49,140
+and the button mechanics on both of them are nice clean clicked
+
+146
+00:04:49,340 --> 00:04:51,280
+There does seem to be a little of a
+
+147
+00:04:51,300 --> 00:04:52,340
+quality control issue
+
+148
+00:04:52,340 --> 00:04:54,060
+I think both of these devices have a lil' bit of
+
+149
+00:04:54,060 --> 00:04:55,420
+play on the trackpad which
+
+150
+00:04:55,420 --> 00:04:56,160
+i wished wasn't there
+
+151
+00:04:56,160 --> 00:04:57,900
+but they exist
+
+152
+00:04:57,900 --> 00:05:01,140
+Also other things that I'm not super fond of
+
+153
+00:05:01,240 --> 00:05:04,660
+the Matebook 13 only supports 8 gigs of ram
+
+154
+00:05:04,660 --> 00:05:06,680
+and it probably won't affect most people
+
+155
+00:05:06,720 --> 00:05:09,800
+I think taht 8 gigs are sufficient for lot of work flows
+
+156
+00:05:09,800 --> 00:05:11,740
+but you can't upgrade it to 16,
+
+157
+00:05:11,740 --> 00:05:14,220
+the  Matebook X pro and also the
+
+158
+00:05:14,220 --> 00:05:16,140
+14 inch version of this supports 16
+
+159
+00:05:16,140 --> 00:05:18,440
+but this only supports 8.
+
+160
+00:05:18,600 --> 00:05:20,920
+The hardware on these Matebooks is excellent.
+
+161
+00:05:20,920 --> 00:05:22,060
+there's no denying that
+
+162
+00:05:22,180 --> 00:05:23,920
+but the pricing is a lil' bit more than
+
+163
+00:05:23,920 --> 00:05:24,520
+what i thought would be.
+
+164
+00:05:24,800 --> 00:05:26,060
+this comes at $1,300,
+
+165
+00:05:26,060 --> 00:05:28,060
+this comes in at $1,900.
+
+166
+00:05:28,100 --> 00:05:30,960
+and that's both for the dedicated graphics versions
+
+167
+00:05:31,375 --> 00:05:34,285
+that's on par with any of the premium
+
+168
+00:05:34,285 --> 00:05:35,780
+Windows laptops on the mark right now
+
+169
+00:05:35,800 --> 00:05:36,580
+there is nothing wrong with that,
+
+170
+00:05:36,580 --> 00:05:39,080
+like these are clearly premium devices but
+
+171
+00:05:39,240 --> 00:05:41,320
+last year, this one in particular
+
+172
+00:05:41,320 --> 00:05:43,220
+the Matebook X pro was
+
+173
+00:05:43,220 --> 00:05:45,760
+it was like 20% cheaper than now
+
+174
+00:05:45,760 --> 00:05:47,240
+and I think it's gone to the point where
+
+175
+00:05:47,240 --> 00:05:49,740
+Huawei knows that their making good hardware
+
+176
+00:05:49,740 --> 00:05:52,380
+they know they have one the best laptops on the market
+
+177
+00:05:52,380 --> 00:05:54,340
+so they bumped up the price because they can
+
+178
+00:05:54,340 --> 00:05:57,260
+the X pro costs more than the Razor Blade Stealth
+
+179
+00:05:57,260 --> 00:05:59,560
+and that was already a very expensive device
+
+180
+00:05:59,820 --> 00:06:01,920
+The Matebook lineup has great build quality
+
+181
+00:06:01,920 --> 00:06:03,820
+the X pro does have slightly better
+
+182
+00:06:03,820 --> 00:06:05,940
+build quality it's a unibody design
+
+183
+00:06:05,940 --> 00:06:07,340
+so the panels are just a lil' tighter
+
+184
+00:06:07,340 --> 00:06:08,860
+but they're both well built.
+
+185
+00:06:08,860 --> 00:06:11,860
+Regards on people calling these clones of Apple's Macbooks
+
+186
+00:06:12,040 --> 00:06:14,360
+I can kinda understand where they're coming from
+
+187
+00:06:14,365 --> 00:06:17,125
+they obviously inspired this design
+
+188
+00:06:17,125 --> 00:06:18,400
+fomr Apple's Macbook lineup,
+
+189
+00:06:18,400 --> 00:06:20,360
+and even the color of the devices
+
+190
+00:06:20,360 --> 00:06:23,385
+like the grey unit they call it space grey
+
+191
+00:06:23,385 --> 00:06:24,560
+they could have called it anything
+
+192
+00:06:24,560 --> 00:06:25,940
+they could've called it meteor grey,
+
+193
+00:06:25,940 --> 00:06:26,960
+rock grey,
+
+194
+00:06:26,960 --> 00:06:29,140
+storm grey but they went with space grey because
+
+195
+00:06:29,140 --> 00:06:30,220
+that's what Apple did
+
+196
+00:06:30,220 --> 00:06:31,680
+and that's what Huawei rolls,
+
+197
+00:06:31,680 --> 00:06:34,595
+But these devices are excellent
+
+198
+00:06:34,600 --> 00:06:37,260
+like they're just such good hardware that
+
+199
+00:06:37,340 --> 00:06:39,355
+You know, I didn't make this video to be like
+
+200
+00:06:39,360 --> 00:06:41,060
+hey, everyone should buy these devices.
+
+201
+00:06:41,060 --> 00:06:41,620
+I'm certainly not saying that
+
+202
+00:06:41,620 --> 00:06:43,620
+but if you're in the market for
+
+203
+00:06:43,620 --> 00:06:45,060
+a thin and light ultrabook,
+
+204
+00:06:45,060 --> 00:06:46,640
+that has performance like this,
+
+205
+00:06:47,080 --> 00:06:48,300
+you should definitely look at them.
+
+206
+00:06:48,300 --> 00:06:49,060
+Because they're that good.
+

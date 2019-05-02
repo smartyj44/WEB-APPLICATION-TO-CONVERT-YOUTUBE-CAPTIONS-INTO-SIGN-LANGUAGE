@@ -1,0 +1,480 @@
+1
+00:00:00,000 --> 00:00:03,149
+[Music]
+
+2
+00:00:03,330 --> 00:00:07,290
+when Nvidia launches a new GPU for
+
+3
+00:00:05,550 --> 00:00:08,760
+laptops they normally come up with their
+
+4
+00:00:07,290 --> 00:00:09,990
+best stuff first the most expensive
+
+5
+00:00:08,760 --> 00:00:12,030
+stuff it's like the latest and greatest
+
+6
+00:00:09,990 --> 00:00:14,460
+and they try to convince people to buy
+
+7
+00:00:12,030 --> 00:00:16,349
+the whatever's newest right and then a
+
+8
+00:00:14,460 --> 00:00:18,000
+few months later they will come out with
+
+9
+00:00:16,349 --> 00:00:20,189
+that kind of the mid-tier offerings of
+
+10
+00:00:18,000 --> 00:00:22,919
+that generation and right now in spring
+
+11
+00:00:20,189 --> 00:00:24,839
+of 2019 we've seen invidious hand so we
+
+12
+00:00:22,919 --> 00:00:27,300
+have a lot of options to choose from we
+
+13
+00:00:24,839 --> 00:00:30,239
+have the older generation 10 series
+
+14
+00:00:27,300 --> 00:00:32,850
+stuff we have their 20 series r-tx like
+
+15
+00:00:30,239 --> 00:00:36,510
+the prime like best of the best and then
+
+16
+00:00:32,850 --> 00:00:38,219
+we have their newest 1650 and 1660
+
+17
+00:00:36,510 --> 00:00:40,320
+gaming laptops now if you're loaded and
+
+18
+00:00:38,219 --> 00:00:41,910
+you have tons of money to burn then you
+
+19
+00:00:40,320 --> 00:00:44,160
+pick up a three or four thousand dollar
+
+20
+00:00:41,910 --> 00:00:46,050
+RTX laptop and you're good to go but for
+
+21
+00:00:44,160 --> 00:00:47,670
+most people you got to make a decision
+
+22
+00:00:46,050 --> 00:00:50,730
+as to which one to get so this video is
+
+23
+00:00:47,670 --> 00:00:52,649
+to kind of help you choose which one of
+
+24
+00:00:50,730 --> 00:00:54,719
+these would probably the best fit and I
+
+25
+00:00:52,649 --> 00:00:56,100
+have a particular kind of combination I
+
+26
+00:00:54,719 --> 00:00:59,160
+think is the best value for your money
+
+27
+00:00:56,100 --> 00:01:02,609
+right now so I made a video a few months
+
+28
+00:00:59,160 --> 00:01:04,680
+ago about how r-tx laptops were not a
+
+29
+00:01:02,609 --> 00:01:06,690
+wise choice to make and months later
+
+30
+00:01:04,680 --> 00:01:08,430
+we're still in the same position I still
+
+31
+00:01:06,690 --> 00:01:10,560
+don't recommend most people buying an RT
+
+32
+00:01:08,430 --> 00:01:13,200
+X gaming laptop because for one they're
+
+33
+00:01:10,560 --> 00:01:15,540
+super expensive too the technology
+
+34
+00:01:13,200 --> 00:01:17,940
+hasn't matured like it's been eight
+
+35
+00:01:15,540 --> 00:01:19,940
+months since r-tx has come out like the
+
+36
+00:01:17,940 --> 00:01:22,350
+technology was introduced publicly and
+
+37
+00:01:19,940 --> 00:01:23,970
+there's like three or four playable
+
+38
+00:01:22,350 --> 00:01:25,560
+games that support our checks there's
+
+39
+00:01:23,970 --> 00:01:27,540
+battlefield 5 which we've seen a lot of
+
+40
+00:01:25,560 --> 00:01:29,310
+and there's Tomb Raider and I think
+
+41
+00:01:27,540 --> 00:01:30,690
+there's a racing game point being it's
+
+42
+00:01:29,310 --> 00:01:32,970
+not a technology that's being quickly
+
+43
+00:01:30,690 --> 00:01:34,800
+adopted by developers and I don't blame
+
+44
+00:01:32,970 --> 00:01:36,960
+them like if your game developer you
+
+45
+00:01:34,800 --> 00:01:38,910
+have to assign resources to support
+
+46
+00:01:36,960 --> 00:01:40,650
+ray-traced graphics right it's gonna
+
+47
+00:01:38,910 --> 00:01:42,300
+take from other projects and stuff like
+
+48
+00:01:40,650 --> 00:01:43,650
+that it's gonna cost money and you don't
+
+49
+00:01:42,300 --> 00:01:44,880
+be a company that's backing the wrong
+
+50
+00:01:43,650 --> 00:01:47,160
+horse you'd want to be the guy that's
+
+51
+00:01:44,880 --> 00:01:48,690
+like hey we have a ray traced game but
+
+52
+00:01:47,160 --> 00:01:50,730
+the game isn't very good no one wants to
+
+53
+00:01:48,690 --> 00:01:53,160
+be that developer so my position still
+
+54
+00:01:50,730 --> 00:01:55,440
+stands when it comes to RTX laptops most
+
+55
+00:01:53,160 --> 00:01:57,450
+people should not be buying them still
+
+56
+00:01:55,440 --> 00:02:00,120
+when it comes to the 10 series devices
+
+57
+00:01:57,450 --> 00:02:02,250
+these are still good however the well is
+
+58
+00:02:00,120 --> 00:02:04,770
+drying up the stock levels for the good
+
+59
+00:02:02,250 --> 00:02:06,750
+GTX 10 series laptops is definitely
+
+60
+00:02:04,770 --> 00:02:08,399
+dropping so if you want to get one I'll
+
+61
+00:02:06,750 --> 00:02:10,200
+link some below as to devices that I
+
+62
+00:02:08,399 --> 00:02:11,520
+still think are quite good for the money
+
+63
+00:02:10,200 --> 00:02:12,810
+it's just that if you're going to do it
+
+64
+00:02:11,520 --> 00:02:13,630
+you probably want to do it sooner than
+
+65
+00:02:12,810 --> 00:02:16,750
+later
+
+66
+00:02:13,630 --> 00:02:19,780
+and lastly the new ones the 1650 and
+
+67
+00:02:16,750 --> 00:02:21,550
+1660 devices from Nvidia these GPS are
+
+68
+00:02:19,780 --> 00:02:22,750
+aimed at the entry to mid to your market
+
+69
+00:02:21,550 --> 00:02:24,610
+so the devices are a little bit cheaper
+
+70
+00:02:22,750 --> 00:02:27,580
+but the one of interest to me is the
+
+71
+00:02:24,610 --> 00:02:29,110
+1660 ti that performance is quite
+
+72
+00:02:27,580 --> 00:02:31,000
+similar to the 1070 max-q
+
+73
+00:02:29,110 --> 00:02:32,740
+and because of the newer architecture
+
+74
+00:02:31,000 --> 00:02:35,290
+it's slightly more energy efficient as
+
+75
+00:02:32,740 --> 00:02:37,660
+just a better chip overall but there is
+
+76
+00:02:35,290 --> 00:02:40,840
+one unique device made by Asus which is
+
+77
+00:02:37,660 --> 00:02:44,290
+running an AMD CPU and that 1660 Ti and
+
+78
+00:02:40,840 --> 00:02:45,640
+it goes for $1,100 it's the Zephyrus G
+
+79
+00:02:44,290 --> 00:02:47,110
+I'm gonna be doing a review on that
+
+80
+00:02:45,640 --> 00:02:49,240
+pretty soon but because it's running an
+
+81
+00:02:47,110 --> 00:02:52,000
+AMD CPU it's quite a bit cheaper than
+
+82
+00:02:49,240 --> 00:02:54,370
+devices that are based on Intel stuff um
+
+83
+00:02:52,000 --> 00:02:56,830
+okay here's the thing right now I'm
+
+84
+00:02:54,370 --> 00:02:58,180
+using as my daily driver I really hate
+
+85
+00:02:56,830 --> 00:03:02,140
+that word but the device I use most
+
+86
+00:02:58,180 --> 00:03:03,790
+frequently is the razor blade from 2017
+
+87
+00:03:02,140 --> 00:03:05,530
+I'm still running a 1070 max-q even
+
+88
+00:03:03,790 --> 00:03:08,230
+though I have access to a lot of laptops
+
+89
+00:03:05,530 --> 00:03:10,930
+I'm someone that recognizes the value of
+
+90
+00:03:08,230 --> 00:03:13,060
+just using stuff that's really good from
+
+91
+00:03:10,930 --> 00:03:14,290
+the past and I think this is the message
+
+92
+00:03:13,060 --> 00:03:18,580
+I want to convey to my audience right
+
+93
+00:03:14,290 --> 00:03:21,190
+now this year both the companies Nvidia
+
+94
+00:03:18,580 --> 00:03:22,180
+and Intel are trying to push stuff on to
+
+95
+00:03:21,190 --> 00:03:25,270
+consumers they're trying to sell us
+
+96
+00:03:22,180 --> 00:03:27,700
+stuff that we don't need right the stuff
+
+97
+00:03:25,270 --> 00:03:30,730
+from 2018 was awesome superfast screens
+
+98
+00:03:27,700 --> 00:03:32,500
+six core CPUs 10 series GPUs this was
+
+99
+00:03:30,730 --> 00:03:35,260
+seriously like the Golden Age of gaming
+
+100
+00:03:32,500 --> 00:03:36,880
+laptops and the new stuff is better but
+
+101
+00:03:35,260 --> 00:03:38,500
+keep in mind what games you're gonna
+
+102
+00:03:36,880 --> 00:03:39,670
+play what games you'd like to play and
+
+103
+00:03:38,500 --> 00:03:40,870
+then make a decision based on that
+
+104
+00:03:39,670 --> 00:03:43,270
+because you can get some really good
+
+105
+00:03:40,870 --> 00:03:45,010
+stuff still in the 10 series laptops and
+
+106
+00:03:43,270 --> 00:03:48,100
+if you're gonna buy one of the new ones
+
+107
+00:03:45,010 --> 00:03:50,140
+I'd lean more towards the 1650 and 1660
+
+108
+00:03:48,100 --> 00:03:52,390
+devices because as cool as r-tx
+
+109
+00:03:50,140 --> 00:03:53,560
+technology is the games just aren't
+
+110
+00:03:52,390 --> 00:03:54,580
+there yet and I know some people are
+
+111
+00:03:53,560 --> 00:03:57,670
+like you know I want to get a
+
+112
+00:03:54,580 --> 00:04:00,430
+future-proof laptop by the time RTX is
+
+113
+00:03:57,670 --> 00:04:02,860
+super popular like get it then get your
+
+114
+00:04:00,430 --> 00:04:04,990
+gaming device then because by that point
+
+115
+00:04:02,860 --> 00:04:06,850
+in time the 20 series laptops are gonna
+
+116
+00:04:04,990 --> 00:04:08,440
+be pretty old okay hope you guys enjoyed
+
+117
+00:04:06,850 --> 00:04:09,010
+this video thumbs we liked it subs if
+
+118
+00:04:08,440 --> 00:04:11,670
+you loved it
+
+119
+00:04:09,010 --> 00:04:11,670
+see you guys next time
+
+120
+00:04:12,700 --> 00:04:15,919
+[Music]
+
