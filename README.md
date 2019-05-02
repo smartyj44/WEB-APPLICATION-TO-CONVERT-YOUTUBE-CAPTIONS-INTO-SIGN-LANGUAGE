@@ -14,4 +14,6 @@ Instruction for Deployment
 
 Important notes:
 
-To use it first you have to make an account on google developer console and enable the youtube api v3 and set the "redirect path" and "credential.json" in the new.php.
+*To use it first you have to make an account on google developer console and enable the youtube api v3 and set the "redirect path" and "credential.json" in the new.php.
+
+*Also if you are viewing the unzipped version then first unzip the "vendor.zip" and "lemmatizer.zip" in the newapi folder.
