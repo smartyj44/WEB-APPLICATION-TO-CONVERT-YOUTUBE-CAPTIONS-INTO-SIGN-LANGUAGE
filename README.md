@@ -1,6 +1,8 @@
 # WEB-APPLICATION-TO-CONVERT-YOUTUBE-CAPTIONS-INTO-SIGN-LANGUAGE
-This project converts the text to sign language in the form of finger spellings and an animated character. It is using the JASigning library which is based on webgl and uses sigml files for animating the character.
 
+This basic idea of this project is that it converts the english text to sign language in the form of finger spellings and animation. It is using the JASigning library which is based on webgl and uses sigml files for animating the character.
+
+The use of the above idea is shown by using the youtube where the input is the subtiles of the video and the output is sign language.The subttile of the given video is extrated by the video id by passing it to the youtube API
 
 ##################################################################
 
